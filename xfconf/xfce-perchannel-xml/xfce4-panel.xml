@@ -30,13 +30,16 @@
     <property name="plugin-4" type="string" value="pager"/>
     <property name="plugin-6" type="string" value="systray">
       <property name="names-visible" type="array">
-        <value type="string" value="orage"/>
+        <value type="string" value="thunar"/>
+        <value type="string" value="vlc"/>
         <value type="string" value="networkmanager applet"/>
-        <value type="string" value="xfce4-power-manager"/>
         <value type="string" value="task manager"/>
+        <value type="string" value="wicd-client.py"/>
+        <value type="string" value="orage"/>
         <value type="string" value="vidalia"/>
         <value type="string" value="bitcoin-qt"/>
-        <value type="string" value="wicd-client.py"/>
+        <value type="string" value="deluge"/>
+        <value type="string" value="xfce4-power-manager"/>
       </property>
     </property>
     <property name="plugin-15" type="string" value="xfce4-mixer-plugin"/>
